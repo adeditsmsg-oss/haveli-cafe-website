@@ -160,7 +160,7 @@ export const MENU_ITEMS: MenuItem[] = PARSED_MENU_ITEMS;
 
 
 export const getAssetUrl = (path: string): string => {
-  return `/digital-menu-card${path}`;
+  return `/haveli-cafe-website${path}`;
 };
 
 export const MENU_SCANS = [
